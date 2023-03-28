@@ -2,7 +2,8 @@
   "name": "project-management-system",
   "version": "1.0.0",
   "description": "Group Project Created For The Project Management System",
-  "main": "server.ts",
+  "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
